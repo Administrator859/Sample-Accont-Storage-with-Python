@@ -1,3 +1,9 @@
 ***ONLY PYTHON***
 ***DOWNLOAD ANY PYTHON VERSION HERE***
 https://www.python.org/downloads/
+
+***YOU NEED THIS FILES***
+
+--main.py(RUN THIS PROGRAM)
+
+--emails.py(EMAIL STORAGE)
